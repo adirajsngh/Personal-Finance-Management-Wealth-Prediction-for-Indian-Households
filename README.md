@@ -1,0 +1,2 @@
+# Personal-Finance-Management-Wealth-Prediction-for-Indian-Households
+This project builds a machine learning–based system to analyze financial behavior and predict long-term wealth outcomes for individuals in Indian households. Using synthetic income, savings, and expense data, the project determines whether a person is likely to be wealthy by age 60 and also estimates their expected accumulated wealth.
